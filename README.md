@@ -4,6 +4,7 @@
 
 **TheMicroStartup** is an open-source initiative to empower youth to build sustainable, creative micro-economies blending **art, technology, and food**. It starts with a **physical retreat space (Atulya's)** — a creative playground — and scales through an open community that contributes ideas, tools, and frameworks for others to replicate or evolve.
 
+Note from Anurag : Please dont overthink every idea is a good idea. 
 ---
 
 ## ✨ Vision
